@@ -1,0 +1,6 @@
+@JwtSwaggerAuth_HostAddress = http://localhost:5128
+
+GET {{JwtSwaggerAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

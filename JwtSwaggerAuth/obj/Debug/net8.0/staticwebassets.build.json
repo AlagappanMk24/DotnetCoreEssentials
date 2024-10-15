@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QnJpTsWfyc4MEFKvG4NaFyfwTwdBEGnJXMMl4iWrfIg=",
+  "Source": "JwtSwaggerAuth",
+  "BasePath": "_content/JwtSwaggerAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,94 @@
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.csproj.AssemblyReference.cache
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.AssemblyInfoInputs.cache
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.AssemblyInfo.cs
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.csproj.CoreCompileInputs.cache
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\appsettings.Development.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\appsettings.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\PaymentGateway.exe
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\PaymentGateway.deps.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\PaymentGateway.runtimeconfig.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\PaymentGateway.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\PaymentGateway.pdb
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\Stripe.net.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\staticwebassets\msbuild.PaymentGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.PaymentGateway.props
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PaymentGateway.props
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PaymentGateway.props
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\scopedcss\bundle\PaymentGateway.styles.css
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentG.20F3FD63.Up2Date
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\refint\PaymentGateway.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.pdb
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.genruntimeconfig.cache
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\ref\PaymentGateway.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\PaymentGateway\obj\Debug\net8.0\PaymentGateway.sourcelink.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\appsettings.Development.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\appsettings.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\PaymentGateway.exe
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\PaymentGateway.deps.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\PaymentGateway.runtimeconfig.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\PaymentGateway.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\PaymentGateway.pdb
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\Stripe.net.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.csproj.AssemblyReference.cache
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.AssemblyInfoInputs.cache
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.AssemblyInfo.cs
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.csproj.CoreCompileInputs.cache
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.sourcelink.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\staticwebassets\msbuild.PaymentGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.PaymentGateway.props
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PaymentGateway.props
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PaymentGateway.props
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\scopedcss\bundle\PaymentGateway.styles.css
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentG.20F3FD63.Up2Date
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\refint\PaymentGateway.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.pdb
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\PaymentGateway.genruntimeconfig.cache
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\PaymentGateway\obj\Debug\net8.0\ref\PaymentGateway.dll

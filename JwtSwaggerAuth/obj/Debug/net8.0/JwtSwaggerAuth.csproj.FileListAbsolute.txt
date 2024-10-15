@@ -1,0 +1,86 @@
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\appsettings.Development.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\appsettings.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\JwtSwaggerAuth.exe
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\JwtSwaggerAuth.deps.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\JwtSwaggerAuth.runtimeconfig.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\JwtSwaggerAuth.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\JwtSwaggerAuth.pdb
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.csproj.AssemblyReference.cache
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.AssemblyInfoInputs.cache
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.AssemblyInfo.cs
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.csproj.CoreCompileInputs.cache
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets.build.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets.development.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets\msbuild.JwtSwaggerAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets\msbuild.build.JwtSwaggerAuth.props
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JwtSwaggerAuth.props
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JwtSwaggerAuth.props
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\scopedcss\bundle\JwtSwaggerAuth.styles.css
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwagg.EE53E03C.Up2Date
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\refint\JwtSwaggerAuth.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.pdb
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.genruntimeconfig.cache
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\ref\JwtSwaggerAuth.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Alagappan\Learning\Projects\WebAPI Projects\DotnetCoreHub\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.sourcelink.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\appsettings.Development.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\appsettings.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\JwtSwaggerAuth.exe
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\JwtSwaggerAuth.deps.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\JwtSwaggerAuth.runtimeconfig.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\JwtSwaggerAuth.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\JwtSwaggerAuth.pdb
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.csproj.AssemblyReference.cache
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.AssemblyInfoInputs.cache
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.AssemblyInfo.cs
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.csproj.CoreCompileInputs.cache
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.MvcApplicationPartsAssemblyInfo.cs
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.MvcApplicationPartsAssemblyInfo.cache
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.sourcelink.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets.build.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets.development.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets\msbuild.JwtSwaggerAuth.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets\msbuild.build.JwtSwaggerAuth.props
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JwtSwaggerAuth.props
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JwtSwaggerAuth.props
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\scopedcss\bundle\JwtSwaggerAuth.styles.css
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwagg.EE53E03C.Up2Date
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\refint\JwtSwaggerAuth.dll
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.pdb
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\JwtSwaggerAuth.genruntimeconfig.cache
+D:\Alagappan\Learning\Projects\DotnetCoreEssentials\JwtSwaggerAuth\obj\Debug\net8.0\ref\JwtSwaggerAuth.dll
